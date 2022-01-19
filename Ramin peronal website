@@ -1,0 +1,33 @@
+<!DOCTYPE html <html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Ramin's Personal Site</title>
+</head>
+
+<body>
+  <img
+    src='https://scontent-ams4-1.xx.fbcdn.net/v/t1.6435-9/76201272_2489313231304231_2731197509144674304_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=CNrp5S6iIpQAX8fBAAu&tn=5kYrBTCBGV6vewPu&_nc_ht=scontent-ams4-1.xx&oh=00_AT_oRqxp48HYT_tdHhplqz45hVHqI8MWCC_YsPifwx9C3Q&oe=620D997A'
+    alt='Ramin profil picture' width="300" height="290">
+  <h1>Ramin Poordivani</h1>
+  <h3><strong>Full Stack develop Student at HYF</strong>.<h3>
+      <p style="font-size:15px">I am 32 yers old, so exited to start new experience by joining the HYF team. I am working so hard on my appliction at te moment to make it done in 10 days and create my first own profesional website to impresse my
+        teachers.</p>
+      <hr>
+      <h3>Books and studying</h3>
+      <ul style="font-size:15px">
+        <li>Full stack development at Khan academy Amserdam</li>
+        <li>The complete 2022 Web development Bootcamp at Udemy.com</li>
+      </ul>
+      <hr>
+      <h3>What I'll learn</h3>
+      <ol style="font-size:15px">
+        <li>Be able to build ANY website i want.</li>
+        <li>Build fully-fledged websites and web apps for my startup or business.</li>
+        <li>Master backend development with Node.</li>
+      </ol>
+
+
+</body>
+
+</html>
